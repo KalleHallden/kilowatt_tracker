@@ -20,7 +20,7 @@ api_base_url="https://www.vattenfall.se/api"
 
 # Postal code is used to get you price area
 # Change to you postal code
-postal_code="60214"
+postal_code="60123"
 
 # You can hard code your price area to limit your request count to the API
 # pricearea="SN1" # Norra Sverige
